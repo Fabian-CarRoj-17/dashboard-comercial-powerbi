@@ -18,7 +18,7 @@ Solución de Business Intelligence desarrollada con Python y Power BI para la au
 
 ---
 
-# 📋 Descripción
+# Descripción
 
 Este proyecto fue desarrollado durante mis prácticas preprofesionales en el área de **Business Intelligence** de SIGELEC con el objetivo de optimizar el análisis comercial mediante la automatización del proceso de obtención, transformación y consolidación de datos provenientes de diversas fuentes.
 
@@ -28,7 +28,7 @@ Además de la implementación técnica, el proyecto incluye la documentación co
 
 ---
 
-# 🎯 Objetivos
+# Objetivos
 
 - Automatizar la actualización de información comercial mediante procesos ETL.
 - Centralizar datos provenientes de diferentes fuentes en un modelo analítico.
