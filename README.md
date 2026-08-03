@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sigelecperu_logo.jpg" width="170">
+  <img src="images/sigelecperu_logo.jpg" width="170">
 </p>
 
 <h1 align="center">
